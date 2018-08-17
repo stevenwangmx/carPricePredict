@@ -1,7 +1,7 @@
 # carPricePredict
 ## This Project is a sample procedure to use Python machine learning regression model to predict car price from a sample data.
 
-**Module 1: Exploratory Data Analysis**
+**Module 1: Exploratory Data Analysis** [Source Code](./exploratoryDataAnalysis.py)
 - Used summary statistics to understand the basics of a data set.
 - Used several types of plots to display distributions.
 - Created scatter plots with different transparency.
