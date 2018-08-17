@@ -24,3 +24,6 @@ Typical process:
 - Fit the linear regression model using scikit-learn.
 - Evaluated the performance of the model using both numeric and graphical methods.
                     
+**Module 4:** [Regularization](./regularization.py)
+- Using L2 and l1 regularization constrain model coefficients to prevent overfitting. 
+- L2 regularization constrains model coefficients using a Euclidian norm. L2 regularization can drive some coefficients toward zero, usually not to zero. On the other hand, l1 regularization can drive model coefficients to zero.
