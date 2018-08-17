@@ -1,4 +1,4 @@
-# Auto Price Predition Project
+# Auto Price Prediction Project
 ## This Project is a sample procedure to use Python machine learning regression model to predict car price from a sample data.
 
 **Module 1:** [Exploratory Data Analysis](./exploratoryDataAnalysis.py)
