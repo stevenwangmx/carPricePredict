@@ -16,7 +16,7 @@ Typical process:
 - Data cleaning and tranformation to address the problems identified. It many cases, step 1 is then repeated to verify that the cleaning and transformation had the desired effect.
 - Construction and evaluation of a machine learning models. Visualization of the results will often lead to understanding of further data preparation that is required; going back to step 1.
 
-**Module 3:** [Apply Regression Model](./applyLinearRession.py)
+**Module 3:** [Apply Regression Model](./applyingLinearRession.py)
 - Transformed the label value to make it more symmetric and closer to a Normal distribution.
 - Aggregated categories of a categorical variable to improve the statistical representation.
 - Scaled the numeric features.
